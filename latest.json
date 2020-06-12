@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "053",
-    "url": "https://"
+    "version": "054",
+    "url": "https://raw.githubusercontent.com/ThomasAunvik/Cadatech-Releases/master/Releases/PanTilt-2000-054.production.hex"
   },
   "patches": [
     {
-      "version": "052",
-      "url": "https://"
+      "version": "053",
+      "url": "https://raw.githubusercontent.com/ThomasAunvik/Cadatech-Releases/master/Releases/PanTilt-2000-053.production.hex"
     }
   ]
 }
