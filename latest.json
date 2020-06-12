@@ -1,0 +1,12 @@
+{
+  "latest": {
+    "version": "053",
+    "url": "https://"
+  },
+  "patches": [
+    {
+      "version": "052",
+      "url": "https://"
+    }
+  ]
+}
